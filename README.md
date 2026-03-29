@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hosting-Static-Website-Using-Terraform
 
 In this project, I built a simple yet effective infrastructure for hosting a static website using **Terraform** and **Amazon Web Services (AWS) S3**.
@@ -124,4 +123,3 @@ For a production setup, consider:
 ## Provider
 
 - AWS Provider: `hashicorp/aws ~> 6.12.0`
->>>>>>> 31b6c5b (New Update)
